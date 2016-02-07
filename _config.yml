@@ -10,7 +10,7 @@ safe: true
 url: http://cgte88586.github.io/resume
 author: Zhou (Joe) Li
 
-baseurl: /vitae/
+baseurl: /resume/
 title: Zhou (Joe) Li's Resume
 name: Zhou (Joe) Li
 email: zli15@ncsu.edu
@@ -27,6 +27,3 @@ postcode: 27518
 city: Cary
 country: United States
 google_analytics: UA-73356853-1
-
-# needed for travis-ci build
-exclude: [vendor]
