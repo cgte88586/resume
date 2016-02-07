@@ -1,12 +1,12 @@
-﻿@import url(https://fonts.googleapis.com/css?family=Raleway:700,400);
+@import url(https://fonts.googleapis.com/css?family=Raleway:700,400);
 
 body {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
-    font-size: 15px;
+    font-size: 14px;
     line-height: 21px;
     color: rgb(48, 48, 48);
-    border-top: 5px solid #27a822;
-    border-bottom: 5px solid #27A822;
+    border-top: 5px solid #1E90FF;
+    border-bottom: 5px solid #1E90FF;
 }
 
 .container {
@@ -15,15 +15,17 @@ body {
 
 a {
     text-decoration: none;
-    /*background-color: rgba(39, 168, 34, 0.06);*/
+    /*color: #1E90FF;*/
+    background-color: rgba(240, 255, 255, 0.5);
 }
 
 a:visited {
     text-decoration: none;
+    /*color: 0;*/
 }
 
 a:hover, a:focus {
-    color: #27A822;
+    color: #1E90FF;
 }
 
 p, address {
@@ -40,7 +42,7 @@ p, address {
 }
 
 header > h1, section > h1 {
-    color: #27A822;
+    color: #1E90FF;
 }
 
 header > h1 {
