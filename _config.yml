@@ -1,4 +1,4 @@
-highlighter: pygments
+highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
@@ -7,29 +7,26 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://biomadeira.github.io/vitae
-author: Fábio Madeira
+url: http://cgte88586.github.io/resume
+author: Zhou (Joe) Li
 
-# edit this section with your information
-# biomadeira.github.io - all contents run on /vitae/
-# for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
-google_analytics: UA-69300817-1
+title: Zhou (Joe) Li's Resume
+name: Zhou (Joe) Li
+email: zli15@ncsu.edu
+email_full: mailto:zli15@ncsu.edu
+website: cgte88586.github.io
+website_full: http://cgte88586.github.io
+github: cgte88586
+twitter: ZhouLi9
+tel: +1 (919) 599-3667
+tel_full: tel:+19195993667
+google_maps: 'https://www.google.com/maps/place/Raleigh,+NC/@35.8436867,-78.7851381,11z/data=!3m1!4b1!4m2!3m1!1s0x89ac5a2f9f51e0f7:0x6790b6528a11f0ad'
+address: 3000 Gregory Manor Ct
+postcode: 27518
+city: Cary
+country: United States
+google_analytics: UA-73356853-1
 
 # needed for travis-ci build
 exclude: [vendor]
