@@ -7,7 +7,7 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://cgte88586.github.io/resume
+url: http://zhoujli.github.io/resume
 author: Zhou (Joe) Li
 
 baseurl: /resume/
@@ -15,9 +15,9 @@ title: Zhou (Joe) Li's Resume
 name: Zhou (Joe) Li
 email: zli15@ncsu.edu
 email_full: mailto:zli15@ncsu.edu
-website: cgte88586.github.io
-website_full: http://cgte88586.github.io
-github: cgte88586
+website: zhoujli.github.io
+website_full: http://zhoujli.github.io
+github: zhoujli
 twitter: ZhouLi9
 tel: +1 (919) 599-3667
 tel_full: tel:+19195993667
