@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:700,400);
+﻿@import url(https://fonts.googleapis.com/css?family=Raleway:700,400);
 
 body {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
@@ -117,6 +117,10 @@ em {
     font-weight: bold;
     color: rgb(100, 100, 100);
     /*margin-right: 6px;*/
+}
+
+i {
+    font-style: italic;
 }
 
 @media print {
